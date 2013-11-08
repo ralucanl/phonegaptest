@@ -28,7 +28,7 @@ var app = {
         $('body').html(html);
         $('.search-key').on('keyup', $.proxy(this.findByName, this));
         $('.search-key').val(" ")
-        $.proxy(this.findByName, this);
+        $('.search-key').trigger('keyup')
     },
     initialize: function() {
         var self = this;
