@@ -27,12 +27,15 @@ var app = {
                 "</div>"
         $('body').html(html);
         $('.search-key').on('keyup', $.proxy(this.findByName, this));
+        $('.search-key').val(" ")
+        $.proxy(this.findByName, this);
     },
     initialize: function() {
         var self = this;
         this.store = new MemoryStore(function() {
             self.showAlert('Store Initialized', 'Info');
             self.renderHomeView();
+            
         });
     }
 
