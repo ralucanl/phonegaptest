@@ -2,6 +2,7 @@ var app = {
     findByName: function() {
         var self = this;
         this.store.findByName($('.search-key').val(), function(employees) {
+            console.log(employees)
             $('.employee-list').html(self.employeeLiTpl(employees));
         });
     },
