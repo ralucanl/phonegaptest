@@ -2,18 +2,9 @@ var app = {
     findByName: function() {
         var self = this;
         this.store.findByName($('.search-key').val(), function(employees) {
+            console.log(employees)
             $('.employee-list').html(self.employeeLiTpl(employees));
         });
-        /* console.log('findByName');
-         this.store.findByName($('.search-key').val(), function(employees) {
-         var l = employees.length;
-         var e;
-         $('.employee-list').empty();
-         for (var i = 0; i < l; i++) {
-         e = employees[i];
-         $('.employee-list').append('<li><a href="#employees/' + e.id + '">' + e.firstName + ' ' + e.lastName + '</a></li>');
-         }
-         });*/
     },
     showAlert: function(message, title) {
         if (navigator.notification) {
@@ -24,8 +15,12 @@ var app = {
     },
     renderHomeView: function() {
         $('body').html(this.homeTpl());
+        // $('.search-key').unbind('keyup')
+        $('.search-key').on('click', function(){
+            this.select();
+        })
         $('.search-key').on('keyup', $.proxy(this.findByName, this));
-        $('.search-key').val(" ");
+        $('.search-key').val("");
         $('.search-key').trigger('keyup');
     },
     initialize: function() {

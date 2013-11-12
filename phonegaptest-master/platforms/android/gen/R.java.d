@@ -1,4 +1,4 @@
-c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\gen\org\coenraets\employeedirectory\R.java \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\gen\com\raluca\phonegap1\R.java \
  : c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\res\drawable\icon.png \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\res\drawable-hdpi\icon.png \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\res\drawable-ldpi\icon.png \

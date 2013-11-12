@@ -21,6 +21,7 @@ c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\index.html \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\js \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\lib \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\plugins \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\res \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\spec \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\spec.html \
@@ -53,6 +54,11 @@ c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\lib\handlebars.js \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\lib\iscroll.js \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\lib\jquery-1.8.2.min.js \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\plugins\org.apache.cordova.dialogs \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\plugins\org.apache.cordova.dialogs\www \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\plugins\org.apache.cordova.dialogs\www\android \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\plugins\org.apache.cordova.dialogs\www\notification.js \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\plugins\org.apache.cordova.dialogs\www\android\notification.js \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\res\icon \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\res\screen \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\res\icon\android \
