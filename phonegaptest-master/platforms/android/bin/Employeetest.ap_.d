@@ -45,6 +45,8 @@ c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\img\Stanley_Hudson.jpg \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\img\Toby_Flenderson.jpg \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\img\unknown.jpg \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\js\EmployeeView.js \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\js\HomeView.js \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\js\index.js \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\js\main.js \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\js\storage \
@@ -54,7 +56,17 @@ c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\lib\handlebars.js \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\lib\iscroll.js \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\lib\jquery-1.8.2.min.js \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\plugins\org.apache.cordova.contacts \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\plugins\org.apache.cordova.dialogs \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\plugins\org.apache.cordova.contacts\www \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\plugins\org.apache.cordova.contacts\www\Contact.js \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\plugins\org.apache.cordova.contacts\www\ContactAddress.js \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\plugins\org.apache.cordova.contacts\www\ContactError.js \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\plugins\org.apache.cordova.contacts\www\ContactField.js \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\plugins\org.apache.cordova.contacts\www\ContactFindOptions.js \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\plugins\org.apache.cordova.contacts\www\ContactName.js \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\plugins\org.apache.cordova.contacts\www\ContactOrganization.js \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\plugins\org.apache.cordova.contacts\www\contacts.js \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\plugins\org.apache.cordova.dialogs\www \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\plugins\org.apache.cordova.dialogs\www\android \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\assets\www\plugins\org.apache.cordova.dialogs\www\notification.js \

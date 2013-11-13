@@ -6,6 +6,13 @@ c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\bin\classe
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\bin\classes\com\raluca\phonegap1\R$string.class \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\bin\classes\com\raluca\phonegap1\R$xml.class \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\bin\classes\com\raluca\phonegap1\R.class \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\bin\classes\org\apache\cordova\contacts\ContactAccessor$WhereOptions.class \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\bin\classes\org\apache\cordova\contacts\ContactAccessor.class \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\bin\classes\org\apache\cordova\contacts\ContactAccessorSdk5.class \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\bin\classes\org\apache\cordova\contacts\ContactManager$1.class \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\bin\classes\org\apache\cordova\contacts\ContactManager$2.class \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\bin\classes\org\apache\cordova\contacts\ContactManager$3.class \
+c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\bin\classes\org\apache\cordova\contacts\ContactManager.class \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\bin\classes\org\apache\cordova\dialogs\Notification$1$1.class \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\bin\classes\org\apache\cordova\dialogs\Notification$1$2.class \
 c:\Users\work3000\phonegap1_git\phonegaptest-master\platforms\android\bin\classes\org\apache\cordova\dialogs\Notification$1.class \
