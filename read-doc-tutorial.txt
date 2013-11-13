@@ -1,0 +1,15 @@
+http://coenraets.org/blog/phonegap-tutorial/
+
+http://www.adobe.com/devnet/html5/articles/getting-started-with-phonegap-in-eclipse-for-android.html
+
+http://plugins.cordova.io/
+
+https://github.com/oauth-io/oauth-phonegap  - oauth login facebook, twitter
+
+https://github.com/apla/me.apla.cordova.share-social  - social share
+
+
+
+- blackberry10 setup https://developer.blackberry.com/native/downloads/
+		http://docs.phonegap.com/en/3.1.0/guide_platforms_blackberry10_index.md.html#BlackBerry%2010%20Platform%20Guide
+		https://github.com/apacshe/cordova-blackberry/commit/6095888ac718254c3d178c84afc28690d7cb9adf#diff-2
