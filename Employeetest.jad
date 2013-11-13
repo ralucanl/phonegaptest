@@ -1,0 +1,195 @@
+Manifest-Version: 1.0
+MIDlet-Jar-Size: 4249813
+RIM-MIDlet-Icon-2-1: ____HOVER_ICON_resources/icon_hover.png,focused
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0.0
+RIM-COD-Size: 66584
+RIM-MIDlet-Flags-1: 0
+MIDlet-Name: Employee test
+RIM-COD-URL-58: Employeetest-58.cod
+RIM-COD-URL-57: Employeetest-57.cod
+RIM-COD-URL-56: Employeetest-56.cod
+RIM-COD-URL-55: Employeetest-55.cod
+RIM-COD-URL-54: Employeetest-54.cod
+RIM-COD-URL-53: Employeetest-53.cod
+RIM-COD-URL-52: Employeetest-52.cod
+RIM-COD-URL-51: Employeetest-51.cod
+RIM-COD-URL-50: Employeetest-50.cod
+RIM-MIDlet-Icon-Count-2: 1
+RIM-MIDlet-Icon-Count-1: 1
+RIM-COD-Size-58: 67324
+RIM-COD-Size-57: 48116
+RIM-COD-Size-56: 47636
+RIM-COD-URL-9: Employeetest-9.cod
+RIM-COD-Size-55: 56452
+RIM-COD-URL-8: Employeetest-8.cod
+RIM-COD-Size-54: 51340
+RIM-COD-URL-49: Employeetest-49.cod
+RIM-COD-URL-7: Employeetest-7.cod
+RIM-COD-Size-53: 58256
+RIM-COD-URL-48: Employeetest-48.cod
+RIM-COD-URL-6: Employeetest-6.cod
+MicroEdition-Profile: MIDP-2.0
+RIM-COD-Size-52: 54672
+RIM-COD-URL-47: Employeetest-47.cod
+RIM-COD-URL-5: Employeetest-5.cod
+RIM-COD-Size-51: 55284
+RIM-COD-URL-46: Employeetest-46.cod
+RIM-COD-URL-4: Employeetest-4.cod
+RIM-COD-Size-50: 51300
+RIM-COD-URL-45: Employeetest-45.cod
+RIM-COD-URL-3: Employeetest-3.cod
+RIM-COD-URL-44: Employeetest-44.cod
+RIM-COD-URL-2: Employeetest-2.cod
+RIM-COD-URL-43: Employeetest-43.cod
+RIM-COD-URL-1: Employeetest-1.cod
+RIM-COD-URL-42: Employeetest-42.cod
+RIM-COD-URL-41: Employeetest-41.cod
+RIM-COD-Size-9: 62508
+RIM-COD-URL-40: Employeetest-40.cod
+RIM-COD-Size-8: 68084
+RIM-COD-Size-7: 62244
+RIM-COD-Size-6: 62224
+RIM-COD-Size-5: 70564
+RIM-COD-Size-4: 62904
+RIM-COD-Size-3: 65104
+RIM-COD-Size-2: 78960
+RIM-COD-Size-1: 69516
+RIM-COD-Size-49: 56292
+RIM-COD-Size-48: 51292
+RIM-COD-Size-47: 56764
+RIM-COD-Size-46: 56616
+RIM-COD-Size-45: 56456
+RIM-COD-Size-44: 51324
+RIM-COD-URL-39: Employeetest-39.cod
+RIM-COD-Size-43: 54904
+RIM-COD-URL-38: Employeetest-38.cod
+RIM-COD-Size-42: 54704
+RIM-COD-URL-37: Employeetest-37.cod
+RIM-COD-URL-36: Employeetest-36.cod
+RIM-COD-Size-41: 51132
+RIM-COD-URL-35: Employeetest-35.cod
+RIM-COD-Size-40: 55844
+RIM-COD-URL-34: Employeetest-34.cod
+RIM-COD-URL-33: Employeetest-33.cod
+RIM-COD-URL-32: Employeetest-32.cod
+RIM-COD-URL-31: Employeetest-31.cod
+RIM-COD-URL-30: Employeetest-30.cod
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bb_web_jse_api,net_rim_xml_org,net_rim_bb_browser_field2_api,net_rim_os,net_rim_bbapi_push,net_rim_bbapi_messagelist,net_rim_pdap,net_rim_bbapi_mailv2,net_rim_bbapi_phone,net_rim_bbapi_invoke,net_rim_bbapi_browser,net_rim_networkapi,net_rim_bb_browser_field_api,net_rim_xml,net_rim_locationapi
+MIDlet-Vendor: Nextlogic
+RIM-COD-Size-39: 56172
+RIM-COD-Size-38: 50804
+RIM-COD-Size-37: 50804
+RIM-COD-Size-36: 50804
+RIM-COD-Size-35: 44040
+RIM-COD-URL-29: Employeetest-29.cod
+RIM-COD-Size-34: 50804
+RIM-COD-URL-28: Employeetest-28.cod
+RIM-COD-Size-33: 50800
+RIM-COD-URL-27: Employeetest-27.cod
+RIM-COD-Size-32: 50800
+RIM-COD-URL-26: Employeetest-26.cod
+RIM-COD-Size-31: 55960
+RIM-COD-URL-25: Employeetest-25.cod
+RIM-COD-Size-30: 50824
+RIM-COD-URL-24: Employeetest-24.cod
+RIM-COD-URL-23: Employeetest-23.cod
+RIM-COD-URL-22: Employeetest-22.cod
+RIM-COD-URL-21: Employeetest-21.cod
+RIM-COD-URL-20: Employeetest-20.cod
+RIM-COD-URL: Employeetest.cod
+MIDlet-Description: A simple employee directory application
+RIM-COD-Module-Name: Employeetest
+RIM-COD-Size-29: 50824
+RIM-COD-Size-28: 50824
+RIM-MIDlet-Icon-1-1: resources\____HOVER_ICON_icon_hover.png,focused
+RIM-COD-Size-27: 50824
+RIM-COD-Size-26: 50804
+RIM-COD-Size-25: 50800
+RIM-COD-URL-19: Employeetest-19.cod
+RIM-COD-Size-24: 59048
+RIM-COD-URL-18: Employeetest-18.cod
+RIM-COD-Size-23: 47344
+RIM-COD-URL-17: Employeetest-17.cod
+RIM-COD-Size-22: 58644
+RIM-COD-URL-16: Employeetest-16.cod
+RIM-COD-Size-21: 47136
+RIM-COD-URL-15: Employeetest-15.cod
+RIM-COD-Size-20: 57008
+RIM-COD-URL-14: Employeetest-14.cod
+RIM-COD-URL-13: Employeetest-13.cod
+RIM-COD-URL-12: Employeetest-12.cod
+RIM-COD-URL-11: Employeetest-11.cod
+RIM-COD-URL-10: Employeetest-10.cod
+RIM-COD-Size-19: 49892
+RIM-COD-Size-18: 50024
+RIM-COD-Size-17: 50100
+RIM-COD-Size-16: 48832
+RIM-COD-Size-15: 47040
+RIM-COD-Size-14: 38180
+RIM-COD-Size-13: 57892
+RIM-COD-Size-12: 64456
+RIM-COD-Size-11: 63500
+RIM-COD-Size-10: 69784
+RIM-COD-SHA1-58: 18 56 0e 0a 36 56 75 58 86 15 1c 79 25 ae 43 88 20 8d f1 bc
+RIM-COD-SHA1-57: 5d 55 27 90 ed ac 32 e4 15 f3 9e 79 3e a9 94 b2 65 28 53 ee
+RIM-COD-SHA1-56: f9 e3 16 04 b5 c5 96 d2 89 5a f3 32 77 d4 a8 f0 4f 67 a0 cb
+RIM-COD-SHA1-55: 7c 67 49 ed c5 e8 60 84 a9 03 f7 b5 dd 0b 4e 96 e1 16 22 a2
+RIM-COD-SHA1-54: 94 2d 22 95 5b 8b 0c de 67 1d 97 29 20 d8 ec 85 14 4a 35 f1
+RIM-COD-SHA1-53: 68 d5 8a 98 3e 42 a3 9d 41 f9 3d ff d3 f3 b0 2b f4 04 80 7c
+MIDlet-1: Employee test,resources/icon.png,rim:foreground;WIDGET;
+RIM-COD-SHA1-52: de ff b5 2f 30 ed a7 16 b3 66 e0 db e7 22 f2 95 ec 57 91 64
+RIM-COD-SHA1-51: 6b 80 d8 3a 02 94 2d 35 96 56 c4 e0 6a 58 71 b7 1b cc a8 1f
+RIM-COD-SHA1-50: c2 81 b3 06 9e fa 7c e7 9e a5 4d 41 ce f6 ab dd df 96 88 31
+RIM-COD-SHA1: fa c5 1f 58 b3 a9 71 b9 98 59 f3 2d 63 28 e9 0d e7 10 3a ad
+RIM-COD-SHA1-49: 5a 0b 64 de 48 b4 6e 9b 28 9a fb a0 17 f6 c0 1e 7b d8 1f 69
+RIM-COD-SHA1-48: 55 d0 f0 6f 71 fd 52 0b fc 52 a5 50 bd d3 f1 29 84 e6 a1 6b
+RIM-COD-SHA1-47: 0d 44 a2 a1 94 7b 2b e2 c5 c2 55 da 68 41 37 cd c8 30 f2 70
+RIM-COD-SHA1-46: 68 23 fc 7a a4 48 76 c7 06 57 1c 47 d3 dc c9 02 17 3c 72 2c
+RIM-COD-SHA1-45: c9 d1 4d f8 0b 1f 09 d0 da ae 33 73 ed 76 b2 55 a7 11 3b b6
+RIM-COD-SHA1-44: 3b 28 77 ac 9f 88 ec bb c8 43 84 c9 69 2e 77 1c 4f 95 a5 5f
+RIM-COD-SHA1-43: f5 63 ee cd 18 08 36 b1 87 ec 0e ed b9 0f 11 95 bb af 9c 39
+RIM-COD-SHA1-42: 3c b3 19 3a 53 1e b7 3d 63 f8 1b bb 9c ae a0 17 35 86 d8 bf
+RIM-COD-SHA1-41: 27 14 f0 95 9c 45 c9 b8 38 fa 13 7a c6 c7 71 c4 9f 3e f9 a2
+RIM-COD-SHA1-40: 8e c7 2f e7 b5 9c b4 67 02 f4 a6 b4 74 ae 92 01 f0 5a de 1a
+RIM-COD-SHA1-39: 8d 4b 76 8e 8e c5 c5 e4 bc 9a 1b 91 da 8a 6c 64 42 61 ad d2
+RIM-COD-SHA1-38: f2 66 67 1c 2a 49 34 71 b5 5d 35 b6 a5 0e 72 06 ae 0f 76 39
+RIM-COD-SHA1-37: 3b 91 0c 90 61 4e 73 60 79 79 d4 18 c3 5b 53 6f 85 30 d6 b2
+RIM-COD-SHA1-36: 61 b2 3f 5c b6 62 6a e4 66 de 8a 8a 3e eb 37 12 15 20 9b cb
+MIDlet-Jar-URL: Employeetest.jar
+RIM-COD-SHA1-35: 9f 4b f1 17 6d fc ee d7 76 bb aa 86 ef 1d b0 38 64 01 32 3c
+RIM-COD-SHA1-34: 70 0c dc fe ef 3f 21 28 fb eb 4a e6 e5 08 87 65 42 08 58 05
+RIM-COD-SHA1-33: 2b 92 bc d9 bb bc 05 ee de 0f 39 13 bd 97 e2 49 32 b9 f5 c8
+RIM-COD-SHA1-32: f2 d8 7c fe 41 1d 6f 24 de ad 53 61 dd a6 39 85 6e ea b3 a2
+RIM-COD-SHA1-31: f3 ec 3f 9f d1 a6 b5 95 0e a7 8a 36 cb 28 b5 89 bb fa b4 3d
+RIM-COD-SHA1-30: 77 5c da 7f ff 65 32 1d 86 c6 28 12 bd 67 e2 a6 23 bd e0 aa
+RIM-COD-SHA1-9: b0 8b 97 40 ce 0d 0f 85 50 2f 8a ca c1 13 92 1a cd 3d 8b 02
+RIM-COD-SHA1-8: 2b 2c ec 68 d3 7f fc 0b 65 91 8d 8c 8b 33 a7 93 c2 d9 4e bf
+RIM-COD-SHA1-7: 56 78 1e 75 39 aa d3 eb ed 15 28 07 69 3d 01 25 aa b1 e8 1b
+RIM-COD-SHA1-6: 11 3b 81 15 8b b1 51 d6 6d 3f 0e e7 07 ab 29 1b 6d 0f f2 f0
+RIM-COD-SHA1-5: fe b4 fe f5 b0 d3 a2 98 99 8f 0b 09 ac 0f a7 8b 5a 05 f0 a8
+RIM-COD-SHA1-4: 2c 1b cf d5 bb c3 a5 d0 8d 31 83 7c 46 f4 0d 1f 1f fb b5 ca
+RIM-COD-SHA1-3: c1 e9 32 8a 9e bc c0 1f 3d 2d 8a 4d 15 a2 19 e6 f1 76 29 14
+RIM-COD-SHA1-2: d5 89 e3 42 b2 83 8b d2 70 ce af 0f fc 86 8d 31 ba b3 7e 9a
+RIM-COD-SHA1-1: 7f 64 ad 08 e8 e6 61 ae ec c0 bc d2 08 a2 85 93 a2 b3 0c d6
+RIM-COD-SHA1-29: 5a 04 30 e3 4e 6d 7a 6b 08 15 fc 1f 96 b9 ff f0 e6 14 16 cc
+RIM-COD-SHA1-28: af 55 b9 41 08 95 49 86 41 1f 15 2f ca 4a e3 61 da 74 1b f5
+RIM-COD-SHA1-27: c7 f1 fe ce 60 05 c4 68 65 9e 10 16 0c 2d ed b4 ff 4b 98 28
+RIM-COD-SHA1-26: 85 3f 3c 02 1a a5 39 e6 b2 bb 5b ae 8c 83 f4 a1 f0 55 f4 5b
+RIM-COD-SHA1-25: d2 11 f0 94 b0 8a 9a 5f 19 bd d5 42 ea 70 37 7b f4 47 db 4f
+RIM-COD-SHA1-24: b0 22 3e 0e 96 51 2c a7 73 92 c1 a5 06 7c 13 d9 e8 9d c5 c0
+RIM-COD-SHA1-23: 59 e3 8c 3f ea 80 07 77 b4 c1 5a ba a2 78 16 bc a5 b9 66 a5
+RIM-COD-SHA1-22: e5 de 89 e5 7e 55 29 bf 06 91 5d 43 ba d7 38 5c f1 98 44 f8
+RIM-COD-SHA1-21: 42 19 e8 0d 56 7d 4a 8e aa 9e 21 db 57 ef 26 4c ef ee d2 48
+RIM-COD-SHA1-20: bb 1a 8a 3f ee d0 4e 41 9e ac 1b 47 e6 64 ac 6c ec 78 dd 22
+RIM-COD-Creation-Time: 1384168642
+RIM-COD-SHA1-19: 5e f8 e1 56 22 a7 1f 8a 84 9a e9 df 65 28 1a 3a 4f ba ae 33
+RIM-COD-SHA1-18: 9f d8 ac 28 38 68 f5 5e b5 e8 03 d1 a5 42 34 9f 18 6a 67 44
+RIM-COD-SHA1-17: b4 22 0f ed 97 e2 34 87 b4 9e 52 9d 6c 9f aa 2c 20 a3 67 ac
+RIM-COD-SHA1-16: 85 53 dd 90 a0 e9 d7 13 00 e5 64 46 cb 77 02 51 86 42 09 20
+RIM-COD-SHA1-15: 83 17 85 4b 93 54 c4 5b 90 68 c8 bf d4 6f fa 6b c5 34 a3 f4
+RIM-COD-SHA1-14: 43 7a 6f a6 d5 25 0d 60 75 9d 46 67 0e 8e 74 7f ba 4b b3 38
+RIM-COD-SHA1-13: 9a d0 ab 71 5a 88 8c ba d4 0f 92 c7 b9 16 a2 9c de 4d e1 46
+RIM-COD-SHA1-12: 13 7b 2f 9a f0 f3 3d f0 e3 6b c3 a8 7b 78 39 4a 8f d9 af 60
+RIM-COD-SHA1-11: 0e dc f4 52 c4 96 b9 13 26 6b 01 3f 6b 7e b8 40 57 e6 67 d9
+RIM-COD-SHA1-10: 94 5c aa 79 bc 55 5b 60 fd b3 65 68 19 a4 bb 13 9a 9c bb 79
